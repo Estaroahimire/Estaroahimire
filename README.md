@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Estaroahimire
-- 👀 I’m interested in product design
-- 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on design projects 
+- 👀 I’m interested in content and Technical Writing
+- 🌱 I’m currerently learning about using AI tools with alx
+- 💞️ I’m looking to work on writing and research projects 
 - 📫 How to reach me Estaromony@gmail.com
 
 <!---
